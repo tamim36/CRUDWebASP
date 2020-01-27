@@ -1,0 +1,9 @@
+C:\Users\tamim\source\repos\ProjectWebApi\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\tamim\source\repos\ProjectWebApi\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\tamim\source\repos\ProjectWebApi\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\tamim\source\repos\ProjectWebApi\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\tamim\source\repos\ProjectWebApi\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\tamim\source\repos\ProjectWebApi\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\tamim\source\repos\ProjectWebApi\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\tamim\source\repos\ProjectWebApi\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\tamim\source\repos\ProjectWebApi\Model\obj\Debug\netstandard2.0\Model.pdb

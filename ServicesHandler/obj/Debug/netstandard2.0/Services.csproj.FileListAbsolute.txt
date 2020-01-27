@@ -1,0 +1,14 @@
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\bin\Debug\netstandard2.0\Services.dll
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\bin\Debug\netstandard2.0\Model.dll
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\obj\Debug\netstandard2.0\Services.dll
+C:\Users\tamim\source\repos\ProjectWebApi\ServicesHandler\obj\Debug\netstandard2.0\Services.pdb
